@@ -2,11 +2,11 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,fx361.com
-DOMAIN-SUFFIX,pc528.net
+DOMAIN-SUFFIX,time.windows.com,DIRECT
+DOMAIN-SUFFIX,lanzov.com,DIRECT
+DOMAIN-SUFFIX,hao123.com,DIRECT
+DOMAIN-SUFFIX,fx361.com,DIRECT
+DOMAIN-SUFFIX,pc528.net,DIRECT
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
